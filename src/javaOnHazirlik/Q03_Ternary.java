@@ -9,7 +9,7 @@ public class Q03_Ternary {
 
         String result = "";
 
-        result = (finalNotu == 'A') ? "Gayet Basarili" :
+        result =                                                                                                                              (finalNotu == 'A') ? "Gayet Basarili" :
                  (finalNotu == 'B') ? "Basarili" :
                  (finalNotu == 'C') ? "Ha Gayret" : "Digerleri";
 
