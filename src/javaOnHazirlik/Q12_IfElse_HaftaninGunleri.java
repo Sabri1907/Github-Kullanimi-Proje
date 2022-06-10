@@ -2,7 +2,7 @@ package javaOnHazirlik;
 
 import java.util.Scanner;
 
-public class Q12_IfElse {
+public class Q12_IfElse_HaftaninGunleri {
     /*
     Kullanıcıdan gün ismi girmesini isteyin. Girilen isim geçerli bir gün ise
     isminin 1,2 ve 3'üncü harflerini ilk harfi büyük diğerleri küçük olacak şekilde

@@ -2,7 +2,7 @@ package javaOnHazirlik;
 
 import java.util.Scanner;
 
-public class Q11_IfElse {
+public class Q11_IfElse_Notlar {
 
      /*
     not hesaplayici
