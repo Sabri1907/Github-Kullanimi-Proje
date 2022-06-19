@@ -21,7 +21,11 @@ public class Q18_StringManipulation {
         String kelime=scan.nextLine();
 
         if (kelime.length()>=3){
-            System.out.println(kelime.la);
-        }
+            System.out.println("Girilen Kelimenin Son Uc Harfi: " + kelime.charAt(kelime.length()-2)+kelime.charAt(kelime.length()-1)+
+                                                                    kelime.charAt(kelime.length()-2)+kelime.charAt(kelime.length()-1)+
+                                                                    kelime.charAt(kelime.length()-2)+kelime.charAt(kelime.length()-1));
+
+
+        } else System.out.println("Girilen Kelime : "+ kelime);
     }
 }
